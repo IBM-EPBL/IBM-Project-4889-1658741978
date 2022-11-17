@@ -3,9 +3,9 @@
 # IBM-Project-4889-1658741978
 Airlines Data Analytics for Avaition Industry
  TEAM ID: PNT2022TMID01325
-TOPIC : AIRLINES DATA ANALYTICS FOR AVIATION INDUSTRY
+ TOPIC : AIRLINES DATA ANALYTICS FOR AVIATION INDUSTRY
 TEAM LEADER:
-   KEERTHANA R U
+  KEERTHANA R U
 TEAM MEMBERS:
 •	GRACE NESAM R
 •	ABINAYASAKTHI R S
@@ -13,6 +13,6 @@ TEAM MEMBERS:
 •	NIVESHAA R
 
 ABOUT THE PROJECT:
-• To guarantee that passengers will arrive at their destination on schedule, to offer better airline and airport services, and to prevent delays in air travel between different sites.
-• Because of Massive levels of aircraft delays on the ground and in the air have also been brought on by an increase in air traffic. Large financial losses are a result of these delays.
+  • To guarantee that passengers will arrive at their destination on schedule, to offer better airline and airport services, and to prevent delays in air travel between   different sites.
+  • Because of Massive levels of aircraft delays on the ground and in the air have also been brought on by an increase in air traffic. Large financial losses are a result of these delays.
 
