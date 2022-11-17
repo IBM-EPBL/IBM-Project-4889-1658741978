@@ -1,9 +1,6 @@
 ![image](https://user-images.githubusercontent.com/113972948/202466666-4ca13dbd-975b-46e5-be57-7150e9741dd1.png)
 
-# IBM-Project-4889-1658741978
-
-
- Airlines Data Analytics for Avaition Industry
+# IBM-Project-4889-1658741978 Airlines Data Analytics for Avaition Industry
  
  
  
