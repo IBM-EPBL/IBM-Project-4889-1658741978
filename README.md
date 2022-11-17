@@ -3,7 +3,7 @@
 # IBM-Project-4889-1658741978
 
 
-*Airlines* *Data* *Analytics* *for* *Avaition* *Industry*
+ Airlines Data Analytics for Avaition Industry
  
  
  
@@ -17,21 +17,24 @@
 
 
 TEAM LEADER:
+
   
-  KEERTHANA R U
+      KEERTHANA R U
 
 
 
 
 TEAM MEMBERS:
 
-•	GRACE NESAM R
 
-•	ABINAYASAKTHI R S
 
-•	GAANASHREE R
+     •	GRACE NESAM R
 
-•	NIVESHAA R
+     •	ABINAYASAKTHI R S
+
+     •	GAANASHREE R
+
+     •	NIVESHAA R
 
 
 
